@@ -1,5 +1,4 @@
-<h1 align="center">Sara Alzaga Romo</h1>
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora+Web;Diseñadora+Gráfica;Consultora+Funcional&font=Fira+Code&size=35&pause=1000&color=1E90FF&background=FFFFFF00&width=900&height=60" />
 </p>
 Soy trabajadora, creativa y con facilidad para comunicarme y colaborar en equipo. Me mantengo en constante aprendizaje para ampliar mis habilidades y aportar valor en proyectos de desarrollo web y diseño, motivada por seguir creciendo en el sector tecnológico.
