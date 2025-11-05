@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Sara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1> 
+<h2>A little more about me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
 ```javascript
 const sara = {
@@ -19,11 +20,10 @@ const sara = {
     "Merging art with code",
     "Automating the boring stuff",
   ],
-  challenge: "Design smarter, code cleaner, grow faster 🚀"
+  challenge: "Design smarter, code cleaner, grow faster"
 };
 ```
 ### Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,33 +51,37 @@ const sara = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-<h2>Contact</h2>
+<h2 align="center">Let's Connect!</h2>
 
 <p align="center">
-📧 <a href="mailto:sara_alzaga_2@hotmail.com"><font color="#1E90FF">sara_alzaga_2@hotmail.com</font></a> •  
-📞 (+34) 636 978 741 •  
-💼 <a href="https://www.linkedin.com/in/sara-alzaga"><font color="#1E90FF">LinkedIn: Sara Alzaga</font></a>
+  <a href="mailto:sara_alzaga_2@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sara-alzaga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/salzaga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
----
-
 <h2>🐱 GitHub Stats</h2>
+
 <div align="center">
 
   <!-- Stats -->
   <img 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=salzaga&show_icons=true&theme=gruvbox_light" 
+    src="https://github-readme-stats.vercel.app/api?username=salzaga&show_icons=true&bg_color=ffffff&title_color=1E90FF&icon_color=1E90FF&text_color=000000&border_color=1E90FF" 
     alt="Sara's GitHub stats" 
   />
 
   <!-- Top Languages -->
   <img 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzaga&layout=compact&theme=gruvbox_light" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzaga&layout=compact&bg_color=ffffff&title_color=1E90FF&icon_color=1E90FF&text_color=000000&border_color=1E90FF" 
     alt="Top Languages"
   />
 
 </div>
+
